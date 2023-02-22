@@ -1,5 +1,6 @@
 - 👋 I'm @jteoo
-- 💞️ if programming is a lifestyle 
+- 💞️ programming is a lifestyle 
+- ✨ Debugging is water
 
 <!---
 jteoo/jteoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
